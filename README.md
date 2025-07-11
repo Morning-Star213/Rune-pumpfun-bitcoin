@@ -4,20 +4,6 @@ Welcome to **Rune Pumpfun**, the ultimate decentralized exchange (DEX) built dir
 
 ---
 
-## 📞 Contact Me
-
-For inquiries or support, feel free to reach out:
-### **Telegram**: [Abracadabra (@hunter0409)](https://t.me/hunter0409)
-
----
-
-## 🎨 Video
-
-https://github.com/user-attachments/assets/220ab280-623c-438e-9e09-a18693ce0e04
-
-
----
-
 ## 🌟 Features at a Glance
 
 - **Seamless Rune Creation**: Deposit BTC and etch runes effortlessly.
@@ -74,7 +60,7 @@ https://github.com/user-attachments/assets/220ab280-623c-438e-9e09-a18693ce0e04
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/btcwhiz/rune-pump-fun.git
+   git clone 
    cd rune-pumpfun
    ```
 2. Install dependencies:
